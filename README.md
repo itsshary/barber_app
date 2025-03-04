@@ -1,16 +1,10 @@
 # barber_app_with_admin_panel
 
-A new Flutter project.
+In this app I am using firebase as a backend and using provider as a statemanagment and using MVVM clean aritecture for clean coding
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- user can booking appointment and check appointment
+- Friendly UI
+- Update Profile and Location
+-
